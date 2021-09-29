@@ -1,0 +1,6 @@
+{
+  "provider_bsc" : "https://speedy-nodes-nyc.moralis.io/2189193f851d76acea16356c/bsc/mainnet",
+  "provider_wss" : "ws://162.55.138.214:443",
+  "address": "0xA16d555D7b2696b2c8aD9C8777efb344c8bAe267",
+  "private_key": "88c0fd206485b9e0e077392bc09b2315ba28a4508032c863fc329006e0101a35"
+}
